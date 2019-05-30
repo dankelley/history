@@ -1,0 +1,13 @@
+Package: history
+Type: Package
+Title: Tools for historical analysis
+Version: 0.1.0
+Authors@R: c(
+    person(given="Dan", family="Kelley", email="Dan.Kelley@Dal.Ca", role=c("aut", "cre"), comment=c(ORCID="https://orcid.org/0000-0001-7808-5911")))
+Maintainer: Dan Kelley <Dan.Kelley@Dal.Ca>
+Description: This package provides some tools for analysis and display of historical data.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Depends: lubridate
+RoxygenNote: 6.1.1
