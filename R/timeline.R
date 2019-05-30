@@ -51,7 +51,7 @@ library(lubridate)
 #'1856-01-01,Ferrel pressure-gradient & wind velocity
 #'1865-01-01,Forchhammer oceanic ion ratio constancy
 #'1867-01-01,Kelvin theorem
-#'1872-01-01,Challenger expediction
+#'1872-01-01,Challenger expedition
 #'1872-01-01,tide prediction machine (Kelvin)
 #'1879-01-01,Stefan black-body radiation law
 #'1879-01-01,Lamb \"Hydrodynamics\"
